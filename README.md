@@ -19,7 +19,7 @@ To set up the project locally, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/vent-mental-health-ai.git
+   git clone https://github.com/YosephSE/Hackathon.git
    ```
 
 ## Application Structure
